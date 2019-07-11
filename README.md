@@ -1,0 +1,1 @@
+Демо проект для поста https://medium.com/@NikolayMatrosov/how-to-use-managed-postgresql-with-dotnet-core-2-2-in-yandex-cloud-3231d102b0d1

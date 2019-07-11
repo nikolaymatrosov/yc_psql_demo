@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  yc_psql_demo:
+    image: ${DOCKER_REGISTRY-}ycpsqldemo
+    build:
+      context: .
+      dockerfile: yc_psql_demo/Dockerfile
